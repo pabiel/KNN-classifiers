@@ -1,2 +1,2 @@
 # KNN-classifiers
-Knn
+Data Set: https://archive.ics.uci.edu/ml/datasets/wine
